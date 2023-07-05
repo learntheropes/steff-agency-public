@@ -1,0 +1,4 @@
+/api/storage/img/* https://res.cloudinary.com/abasto/image/upload/:splat  200
+/pagos/reserva/* /payments/booking/:splat 200
+/pagos/saldo/* /payments/balance/:splat 200
+/oferta/*  https://res.cloudinary.com/abasto/image/upload/:splat 200
